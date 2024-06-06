@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157682857381",
+    "project_id": "conmetlabsnews",
+    "storage_bucket": "conmetlabsnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157682857381:android:0ae7ec87789b65bc35644c",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157682857381-06hm5ur35d6gln00q7cdu28qs0a8fl76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KICx9pSn27AFGA5Invgz-6XPMxsd53Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157682857381-06hm5ur35d6gln00q7cdu28qs0a8fl76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
